@@ -7,6 +7,6 @@ You will need to input the number of data points, the number of clusters, the mi
 
 #### Dependencies
 
-numpy
-matplotlib
-copy
+numpy <br/>
+matplotlib<br/>
+copy<br/>
